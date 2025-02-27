@@ -1,4 +1,6 @@
 Portfolio App - Advanced React Course by Meta
+
+
 Description
 This portfolio app was developed as part of the Advanced React Course by Meta to showcase my skills and projects using React. The app includes various sections such as a header with external and internal links, a landing section with a bio, a project showcase, and a contact form.
 
